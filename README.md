@@ -8,3 +8,5 @@ Il faut donc comprendre le principe et suivre les mêmes conventions afin de dé
  * FO : ajout au panier + gestion du panier
  * FO : processus de commande (checkout)
  * BO : suivi des commandes
+
+bla
